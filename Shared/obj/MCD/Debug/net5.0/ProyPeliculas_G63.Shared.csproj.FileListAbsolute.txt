@@ -1,0 +1,12 @@
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\bin\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.deps.json
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\bin\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.dll
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\bin\MCD\Debug\net5.0\ref\ProyPeliculas_G63.Shared.dll
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\bin\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.pdb
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.csproj.AssemblyReference.cache
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.AssemblyInfoInputs.cache
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.AssemblyInfo.cs
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.dll
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ref\ProyPeliculas_G63.Shared.dll
+C:\ProysCicloIII\ProyPeliculas_G63\Shared\obj\MCD\Debug\net5.0\ProyPeliculas_G63.Shared.pdb

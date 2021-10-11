@@ -1,0 +1,51 @@
+﻿@page "/"
+
+<h1>Peliculas</h1>
+
+<div class="row row-cols-1 row-cols-md-3 g-4 mb-3">
+  <div class="col">
+    <div class="card h-100" style="width: 18rem;">
+      <img src="\images\badboys.jfif" class="card-img-top" alt="..." width="20" height="200">
+      <div class="card-body">
+        <h5 class="card-title">@movie1</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100" style="width: 18rem;">
+      <img src="\images\ralpheldemoledor.jpg" class="card-img-top" alt="..." width="20" height="200">
+      <div class="card-body">
+        <h5 class="card-title">@movie2</h5>
+        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100" style="width: 18rem;">
+      <img src="\images\conjuro.jpg" class="card-img-top" alt="..." width="20" height="200">
+      <div class="card-body">
+        <h5 class="card-title">@movie3</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    </div>
+  </div>
+</div>
+@code {
+    public string movie1= "Bad Boys Para Siempre";
+    public string movie2= "Ralph El Demoledor";
+    public string movie3= "El Conjuro";
+}
+
